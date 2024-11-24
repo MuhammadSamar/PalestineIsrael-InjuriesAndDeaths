@@ -69,7 +69,7 @@ Feel free to contribute to the project by providing feedback, reporting issues, 
 📬 Contact
 For any questions or suggestions, please feel free to reach out to:
 
-Email: [samarshehzad598@gmail.com](mailto:samarshehzad598@gmail.com)
-LinkedIn: (Muhammad Samar Shehzad)[https://www.linkedin.com/in/muhammadsamarshehzad/]
-📚 Related Links
+Email: [samarshehzad598@gmail.com](mailto:samarshehzad598@gmail.com)\
+LinkedIn: (Muhammad Samar Shehzad)[https://www.linkedin.com/in/muhammadsamarshehzad/]\
+📚 Related Links\
 Kaggle Notebook: (Tracking Tragedy - Advance Data Insights)[https://www.kaggle.com/code/muhammadsamarshehzad/tracking-tragedy-advance-data-insights-conflict]
