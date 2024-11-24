@@ -177,7 +177,7 @@ with st.form(key="feedback_form"):
             feedback_data = pd.DataFrame({"Name": [name], "Feedback": [feedback]})
             try:
                 # Append feedback to an existing CSV file
-                feedback_data.to_csv(r"./github/feedback.csv", mode="a", index=False, header=False)
+                feedback_data.to_csv(r".\github\feedback.csv", mode="a", index=False, header=False)
             except FileNotFoundError:
                 # If the file doesn't exist, create it with headers
                 feedback_data.to_csv("feedback.csv", mode="w", index=False, header=True)
