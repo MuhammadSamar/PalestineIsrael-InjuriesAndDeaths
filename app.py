@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load the cleaned data (ensure 'cleaned_data.csv' exists in the working directory)
-data = pd.read_csv(r'E:\6 Months Ai and Ds\Pandas\Palestine Israel Analysis\cleaned_data.csv')
+data = pd.read_csv('cleaned_data.csv')
 
 # Set up the Streamlit page configuration
 st.set_page_config(
