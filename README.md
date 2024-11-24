@@ -43,12 +43,16 @@ Provide Feedback: After exploring the dashboard, you can send your feedback thro
 
 ```bash
 git clone https://github.com/yourusername/palestineisrael-injuriesanddeaths.git
-
+```
+```
 cd palestineisrael-injuriesanddeaths
-
+```
+```
 pip install -r requirements.txt
-
+```
+```
 streamlit run app.py
+```
 
 4. Open the dashboard in your browser and explore the data.
 🔒 Privacy of Feedback
