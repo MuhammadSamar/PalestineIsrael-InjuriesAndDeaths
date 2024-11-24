@@ -41,16 +41,15 @@ We value your thoughts! Please share your feedback or comments with us. Your inp
 Provide Feedback: After exploring the dashboard, you can send your feedback through an elegant form. Your feedback will be securely stored in our private database, and we will ensure it is used to enhance future analyses.
 
 
-`git clone https://github.com/yourusername/palestineisrael-injuriesanddeaths.git
+```bash
+git clone https://github.com/yourusername/palestineisrael-injuriesanddeaths.git
+
 cd palestineisrael-injuriesanddeaths
-`
 
-`
 pip install -r requirements.txt
-`
 
-`streamlit run app.py
-`
+streamlit run app.py
+
 4. Open the dashboard in your browser and explore the data.
 🔒 Privacy of Feedback
 All feedback provided through the dashboard is stored securely and is only accessible by authorized individuals. We ensure your input remains confidential and private.
