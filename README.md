@@ -54,22 +54,24 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Open the dashboard in your browser and explore the data.
-🔒 Privacy of Feedback
+Open the dashboard in your browser and explore the data.
+
+**🔒 Privacy of Feedback**
 All feedback provided through the dashboard is stored securely and is only accessible by authorized individuals. We ensure your input remains confidential and private.
 
-🤖 Automated Updates
+**🤖 Automated Updates**
 Every new feedback submission is automatically pushed to the repository, ensuring that the data stays updated and accessible to all collaborators.
 
-🛠️ Technologies Used
-Python: Core language for data analysis and visualization.
-Streamlit: For building interactive dashboards.
-Plotly: To create beautiful, interactive visualizations.
-GitHub Actions: For automating feedback updates and ensuring seamless workflow.
-📢 Get Involved!
+**🛠️ Technologies Used**
+  - Python: Core language for data analysis and visualization.
+  - Streamlit: For building interactive dashboards.
+  - Plotly: To create beautiful, interactive visualizations.
+  - GitHub Actions: For automating feedback updates and ensuring seamless workflow.
+  - 
+**📢 Get Involved!**
 Feel free to contribute to the project by providing feedback, reporting issues, or suggesting improvements. We welcome collaboration and appreciate any help in making this project more impactful.
 
-📬 Contact
+**📬 Contact**
 For any questions or suggestions, please feel free to reach out to:
 
 Email: [samarshehzad598@gmail.com](mailto:samarshehzad598@gmail.com)  
