@@ -33,12 +33,43 @@ Understand the magnitude of loss during specific events.
 Analyze the monthly breakdown of conflict casualties to spot significant moments in time.
 
 **📑 Dataset Information**
-The dataset used for this project was sourced from Palestine Body Count and contains information on the number of injuries and deaths over several years.
+The dataset used for this project was sourced from (Palestine Body Count)[https://www.kaggle.com/datasets/zusmani/palestine-body-count] and contains information on the number of injuries and deaths over several years.
 
-**Original dataset by:**
-
-zusmani
-💡 Feedback Section
+**💡 Feedback Section**
 We value your thoughts! Please share your feedback or comments with us. Your input will help improve the project and contribute to future analyses.
 
 Provide Feedback: After exploring the dashboard, you can send your feedback through an elegant form. Your feedback will be securely stored in our private database, and we will ensure it is used to enhance future analyses.
+
+
+`git clone https://github.com/yourusername/palestineisrael-injuriesanddeaths.git
+cd palestineisrael-injuriesanddeaths
+`
+
+`
+pip install -r requirements.txt
+`
+
+`streamlit run app.py
+`
+4. Open the dashboard in your browser and explore the data.
+🔒 Privacy of Feedback
+All feedback provided through the dashboard is stored securely and is only accessible by authorized individuals. We ensure your input remains confidential and private.
+
+🤖 Automated Updates
+Every new feedback submission is automatically pushed to the repository, ensuring that the data stays updated and accessible to all collaborators.
+
+🛠️ Technologies Used
+Python: Core language for data analysis and visualization.
+Streamlit: For building interactive dashboards.
+Plotly: To create beautiful, interactive visualizations.
+GitHub Actions: For automating feedback updates and ensuring seamless workflow.
+📢 Get Involved!
+Feel free to contribute to the project by providing feedback, reporting issues, or suggesting improvements. We welcome collaboration and appreciate any help in making this project more impactful.
+
+📬 Contact
+For any questions or suggestions, please feel free to reach out to:
+
+Email: [samarshehzad598@gmail.com](mailto:samarshehzad598@gmail.com)
+LinkedIn: (Muhammad Samar Shehzad)[https://www.linkedin.com/in/muhammadsamarshehzad/]
+📚 Related Links
+Kaggle Notebook: (Tracking Tragedy - Advance Data Insights)[https://www.kaggle.com/code/muhammadsamarshehzad/tracking-tragedy-advance-data-insights-conflict]
